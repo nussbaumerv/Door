@@ -1,0 +1,10 @@
+{
+  "name": "V-DOOR",
+  "short_name": "V-DOOR",
+  "theme_color": "#f32124",
+  "background_color": "#ffffff",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/index.php"
+}
